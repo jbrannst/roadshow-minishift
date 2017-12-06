@@ -1,6 +1,6 @@
 # roadshow-minishift
 
-You can install the roadshow guides locally using minishift
+You can install roadshow guides modified to use python to run locally using minishift 
 1. Install minishift https://github.com/minishift/minishift
 1. Install the roadshow guides https://github.com/minishift/minishift-addons/tree/master/add-ons/workshop
 
